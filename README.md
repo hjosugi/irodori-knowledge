@@ -22,3 +22,14 @@ cargo test
 
 Irodori Table consumes these crates as version-tagged Git dependencies so the app
 can stay slimmer while the job/knowledge contracts evolve independently.
+
+## License
+
+Irodori-authored code in this repository is available under `MIT OR 0BSD` unless
+a file says otherwise. See [LICENSE](LICENSE).
+
+## Disclaimer
+
+These crates are shared development components for Irodori Table. For public
+product caveats, warranty notes, and preview-status guidance, see the Irodori
+Table [disclaimer](https://hjosugi.github.io/irodori-docs/disclaimer.html).
